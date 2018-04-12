@@ -1,0 +1,27 @@
+{
+  "name": "ds-algo",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms implemented in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simrendra/DSAlgo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simrendra/DSAlgo/issues"
+  },
+  "homepage": "https://github.com/simrendra/DSAlgo",
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.1",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
+}

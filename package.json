@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/simrendra/DSAlgo.git"
+    "url": "https://github.com/simrendra/data-structure-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simrendra/DSAlgo/issues"
+    "url": "https://github.com/simrendra/data-structure-js/issues"
   },
   "homepage": "https://github.com/simrendra/DSAlgo"
 }
